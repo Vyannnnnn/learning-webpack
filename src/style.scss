@@ -1,0 +1,14 @@
+$bg: yellow;
+$primary : orange;
+$danger : pink;
+@import 'bootstrap/scss/bootstrap';
+
+body {
+    background-color: $bg;
+}
+
+.logo {
+    width: 150px;
+    display: block;
+    margin: 20px auto;
+}
